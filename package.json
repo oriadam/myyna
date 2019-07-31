@@ -14,7 +14,7 @@
       "email": "robin@cubettech.com"
     } 
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "start": "node app.js"
@@ -25,18 +25,18 @@
     "mongodb": "latest",
     "mongoose": "latest",
     "consolidate": "latest",
-    "express3-handlebars": "latest",
+    "express-handlebars": "latest",
     "webshot": "latest",
     "imagemagick": "latest",
-    "socket.io": "0.9.16",
-    "formidable": "1.0.14",
+    "socket.io": "latest",
+    "formidable": "latest",
     "fluent-ffmpeg": "1.5.2",
-    "nodemailer": "0.5.7",
-    "youtube-feeds":"2.2.1",
+    "nodemailer": "latest",
+    "youtube-feeds":"latest",
     "gm":"1.13.3",
-    "facebook-js":"1.0.1",
-    "facebook-node-sdk":"0.2.0",
-    "node-twitter-api":"1.1.1",    
+    "facebook-js":"latest",
+    "facebook-node-sdk":"latest",
+    "node-twitter-api":"latest",
     "social-share":"latest",
     "helmet":"0.1.1"
   },
